@@ -6,11 +6,11 @@ I'm constantly learning new cybersecurity topics and find projects great to keep
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/itn8/vulnerability-management-program)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/itn8/programmatic-vulnerability-remediations)**
+- **[(COMING SOON)Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/itn8/programmatic-vulnerability-remediations)**
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/itn8/threat-hunting-scenario-tor)**
+- **[(COMING SOON)Threat Hunting Scenario (Tor Browser Usage)](https://github.com/itn8/threat-hunting-scenario-tor)**
 
 <hr/>
 
