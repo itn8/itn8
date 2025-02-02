@@ -24,3 +24,5 @@ I'm constantly learning new cybersecurity topics and find projects great to keep
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
 -->
+
+![dream_junglecitysoc2](https://github.com/user-attachments/assets/1abba7a3-2f94-4cc6-ae9c-bae0dbe664a0)
