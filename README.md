@@ -10,7 +10,7 @@ I'm constantly learning new cybersecurity topics and find projects great to keep
 
 ## 🚨 Threat Hunting and Security Operations
 - **[Threat Hunting Scenario "Jackal Sphere"](https://github.com/itn8/threat-hunting-jackal-sphere)**
-- **[(COMING SOON)Threat Hunting Scenario (Tor Browser Usage)](https://github.com/itn8/threat-hunting-scenario-tor)**
+- **[Threat Hunting Scenario (🧅Tor Browser Usage🧅)](https://github.com/itn8/threat-hunting-scenario-tor)**
 
 <hr/>
 
