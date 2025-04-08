@@ -12,6 +12,9 @@ I'm constantly learning new cybersecurity topics and find projects great to keep
 - **[Threat Hunting Scenario "Jackal Sphere"](https://github.com/itn8/threat-hunting-jackal-sphere)**
 - **[Threat Hunting Scenario (🧅Tor Browser Usage🧅)](https://github.com/itn8/threat-hunting-scenario-tor)**
 
+## 💾🔍 Digital Forensics Investigations
+- **[(COMING SOON)Suspected Proprietary Data Exfiltration on Drive (Disk Image Investigation with Autopsy)](https://github.com/itn8/autopsy-investigation)**
+
 <hr/>
 
 ## 🤳 Connect With Me
